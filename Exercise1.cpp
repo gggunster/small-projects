@@ -3,7 +3,7 @@
 
 int main(){
 	
-	int	list[N];
+	int list[N];
 	int i;
 	int *p = list;
 
